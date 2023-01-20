@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bevadero
-- 👀 I’m interested in SQL
+- 👀 I’m interested in Data Analytics and Data Visualisation
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me on LinkedIn
 
 <!---
 bevadero/bevadero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
