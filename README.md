@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bevadero
-- 👀 I’m interested in Data Analytics and Data Visualisation
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in the fundamentals of coding
+- 🌱 I’m currently learning the basics of Python
 - 📫 Reach me on LinkedIn
 
 <!---
